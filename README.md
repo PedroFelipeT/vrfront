@@ -1,4 +1,4 @@
-# front_vr
+# VR Front
 
 Aplicação para escolas e foi feito pensando na utilização por parte da gestão, utilizando Dart e alguns de seus frameworks como Flutter e Provider.
 
